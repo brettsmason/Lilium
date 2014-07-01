@@ -1,0 +1,102 @@
+/**
+ * Theme Name:  Lilium
+ * Theme URI:   http://themehybrid.com/themes/lilium
+ * Description: Lilium is a clean and elegant child theme for Stargazer – One of the most advanced themes to grace the WordPress universe. This child theme uses a contemporary selection of fonts as well as a bright modern colour palette to transform the look and feel of the theme. It comes packaged with additional backgrounds and header images to use with the WordPress custom background/custom header features.
+ * Version:     1.0.0
+ * Author:      Brett Mason
+ * Author URI:  http://profiles.wordpress.org/brettsmason
+ * Tags:        custom-background, custom-colors, custom-header
+ * License:     GNU General Public License v2.0 or later
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ * Template:    stargazer
+ * Text Domain: lilium
+ */
+
+#site-title {
+	font-family: 'Oleo Script Swash Caps', cursive;
+}
+
+.font-primary,
+body,
+input,
+textarea,
+.label-checkbox,
+.label-radio,
+.required,
+#site-description,
+#reply-title small { 
+	font-family: 'Alegreya Sans', Arial, sans-serif; 
+}
+
+.font-secondary,
+dt,
+th,
+legend,
+label,
+input[type="submit"],
+input[type="reset"], 
+input[type="button"],
+button,
+select,
+option,
+.wp-caption-text,
+.gallery-caption,
+.mejs-controls,
+.entry-byline,
+.entry-footer,
+.chat-author cite,
+.chat-author,
+.comment-meta,
+.menu,
+.breadcrumb-trail,
+.media-info .prep,
+.comment-reply-link,
+.comment-reply-login,
+.clean-my-archives .day,
+.whistle-title {
+	font-family:  'Nunito', Arial, sans-serif;
+}
+
+.font-headlines,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family:  'Trocchi', Arial, sans-serif;
+}
+
+.widget-title > .wrap,
+#comments-number > .wrap,
+#reply-title > .wrap,
+.attachment-meta-title > .wrap {
+	text-transform: none;
+	font-weight: normal;
+}
+
+#menu-primary li a,
+#menu-secondary li a {
+	text-transform: none;
+	border: none;
+}
+
+#menu-primary li li a,
+#menu-secondary li li a {
+	border: none;
+}
+
+#menu-primary li > ul:before {
+	border-bottom-color: #000;
+}
+
+.ltr #menu-primary li li > ul:before {
+	border-bottom-color: transparent;
+	border-right-color: #000;
+}
+
+#menu-primary ul ul li a:hover,
+#menu-secondary ul ul li a:hover {
+	background: #9E0061;
+	text-decoration: none;
+}

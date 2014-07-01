@@ -1,0 +1,50 @@
+# Copyright (C) 2014 Brett Mason
+# This file is distributed under the GNU General Public License v2.0 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Lilium 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/lilium\n"
+"POT-Creation-Date: 2014-06-21 10:34:16+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#. Translators: Header image description.
+
+#: functions.php:65
+msgid "Bridge"
+msgstr ""
+
+#. Translators: Header image description.
+
+#: functions.php:71
+msgid "Flowers"
+msgstr ""
+
+#. Translators: Header image description.
+
+#: functions.php:77
+msgid "Water"
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "Lilium"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://themehybrid.com/themes/lilium"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A child theme for the brilliant Stargazer."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Brett Mason"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://profiles.wordpress.org/brettsmason"
+msgstr ""
